@@ -7,3 +7,5 @@ docker
 docker-compose
 langchain-community
 langchain-core
+chromium
+browser-use
