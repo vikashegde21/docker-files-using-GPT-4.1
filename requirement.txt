@@ -1,3 +1,9 @@
 langchain 
 langchain-openai 
 python-dotenv
+argparse
+pydantic
+docker 
+docker-compose
+langchain-community
+langchain-core
